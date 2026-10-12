@@ -1,0 +1,6 @@
+{
+  "name": "AnimaStudio",
+  "description": "Next-Gen Vector & Skeletal Animation Engine with Bézier paths, 2-bone IK solver, mesh deformation, and multi-track timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
